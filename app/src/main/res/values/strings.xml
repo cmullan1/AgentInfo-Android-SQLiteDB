@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Day13Assignment</string>
+    <string name="travelAgents">Travel Agents</string>
+    <string name="travelAgentDetails">Travel Agent Details</string>
+    <string name="agentId">Agent ID: </string>
+    <string name="firstName">First Name: </string>
+    <string name="middleInitial">Middle Initial: </string>
+    <string name="lastName">Last Name: </string>
+    <string name="busPhone">Business Phone: </string>
+    <string name="email">Email: </string>
+    <string name="position">Position: </string>
+    <string name="agency">Agency:</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+</resources>
